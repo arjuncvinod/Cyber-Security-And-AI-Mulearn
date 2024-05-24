@@ -1,2 +1,2 @@
-# Cyber Security Tasks
-### Cyber security interest group tasks
+# Cyber Security and Ai Tasks
+### Tasks from Cyber security IG and Ai IG
